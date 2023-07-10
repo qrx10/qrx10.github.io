@@ -7,4 +7,4 @@ importance: 1
 report_pdf: Lyapunov_function.pdf
 category: research
 ---
-In this research project, 
+In this research project, A property of integer-valued Lyapunov function for a class of totally nonnegative matrices has been investigated.
