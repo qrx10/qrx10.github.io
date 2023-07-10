@@ -15,7 +15,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am currently a 5th year engineering physics stduent at [UBC](https://www.engphys.ubc.ca/) and an undergraduate research assistant in [AMPEL](https://www.ampel.ubc.ca/), supervised by [Dr. John D.W. Madden](https://mm.ece.ubc.ca/john-madden/). Prior to this, I also worked as an undergraduate research assistant in [SimPL](https://simpl.mech.ubc.ca/), supervised by [Dr. Lyndia C. Wu](https://mech.ubc.ca/lyndia-wu/).
+
+I am currently a 5th year Engineering Physics student at [UBC](https://www.engphys.ubc.ca/) and an undergraduate research assistant in [AMPEL](https://www.ampel.ubc.ca/), supervised by [Dr. John D.W. Madden](https://mm.ece.ubc.ca/john-madden/), working on artificial skin for robots and smart roller for automated fibre placement. Prior to this, I worked as an undergraduate research assistant in [SimPL](https://simpl.mech.ubc.ca/), supervised by [Dr. Lyndia C. Wu](https://mech.ubc.ca/lyndia-wu/), working on balance adption tasks with EEG measurement and quantifying balance of hockey players using wearable sensors.
+
 
 My research interests lie in applied mechanics, where I apply experimental, numerical, and analytical methods to solve mechanics problems. I am particularly intrigued by interdisciplinary studies in MEMS, which involve integrating electrical and mechanical components with physics knowledge. My goal is to contribute to the development of innovative and efficient micro-scale devices.
 
