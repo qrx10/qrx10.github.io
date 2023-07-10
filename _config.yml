@@ -126,14 +126,6 @@ blog_nav_title: blog # your blog must have a title for it to be displayed in the
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
-# -----------------------------------------------------------------------------
-# CV
-# -----------------------------------------------------------------------------
-cv_name: CV
-cv_nav_title: cv
-cv_description: 
-permalink: /cv/
-
 # Pagination
 pagination:
   enabled: true
@@ -168,6 +160,16 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   - name: medium.com
     rss_url: https://medium.com/@al-folio/feed
+
+
+# -----------------------------------------------------------------------------
+# CV
+# -----------------------------------------------------------------------------
+
+cv_name: CV
+cv_nav_title: cv
+cv_description: 
+permalink: /cv/
 
 # -----------------------------------------------------------------------------
 # Collections
