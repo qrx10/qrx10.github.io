@@ -21,6 +21,6 @@ I am currently a fifth year Engineering Physics student at [UBC](https://www.eng
 
 My research interests lie in applied mechanics, where I can apply experimental, numerical, and analytical methods to solve mechanics problems. I am particularly intrigued by interdisciplinary studies in MEMS, which involve integrating electrical and mechanical components with physics knowledge. My goal is to contribute to the development of innovative and efficient micro-scale devices.
 
-I enjoy playing and watching football in my spare time. Check out my [blog](/blog/) for fun articles, and feel free to browse through my [CV](/CV/) and [gallery](/gallery) to learn more about me.
+I enjoy playing and watching football in my spare time. Check out my [blog](/blog/) for fun articles, and feel free to browse through my [CV](/cv/) and [gallery](/gallery/) to learn more about me.
 
 
