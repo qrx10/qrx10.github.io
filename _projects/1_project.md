@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: A Property of Lyapunov Function
+description: A property of integer-valued Lyapunov function for a class of totally nonnegative matrices
+img: 
 importance: 1
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
