@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ampel.ubc.ca/'>Undergraduate Research Assistant @ Advanced Materials and Process Engineering Laboratory, University of British Columbia</a>.
+subtitle: Undergraduate Research Assistant @ <a href='https://www.ampel.ubc.ca/'>Advanced Materials and Process Engineering Laboratory</a>,\ The University of British Columbia
 
 profile:
   align: right
