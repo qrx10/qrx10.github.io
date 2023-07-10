@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 5th year engineering physics student @ <a href='https://www.engphys.ubc.ca/'>The University of British Columbia</a><br>Undergraduate Research Assistant @ <a href='https://www.ampel.ubc.ca/'>Advanced Materials and Process Engineering Laboratory</a>,<br>The University of British Columbia.
+subtitle: 5th year engineering physics student @ <a href='https://www.engphys.ubc.ca/'>The University of British Columbia</a><br>Undergraduate Research Assistant @ <a href='https://www.ampel.ubc.ca/'>Advanced Materials and Process Engineering Laboratory</a>
 
 profile:
   align: right
@@ -13,9 +13,9 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: falsse  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
-I am currently a fifth year engineering physics stduent at UBC
+I am currently a 5th year engineering physics stduent at [UBC](https://www.engphys.ubc.ca/) and working as a undergraduate research assistant in [AMPEL](https://www.ampel.ubc.ca/) under the supervision of [Dr. John D.W. Madden](https://mm.ece.ubc.ca/john-madden/).
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
