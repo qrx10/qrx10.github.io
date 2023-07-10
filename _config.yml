@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ruixin Qiu # the website title (if blank, full name will be used instead)
+title: Ruixin Qiu 邱瑞昕 # the website title (if blank, full name will be used instead)
 first_name: Ruixin Qiu
 middle_name:
 last_name: 邱瑞昕
-email: you@example.com
+email: ruixinqiu@qq.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
