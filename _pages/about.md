@@ -8,7 +8,7 @@ profile:
   align: right
   image: qrxatsea.jpg
   image_circular: false # crops the image to make it circular
-  address: Brown's Beach, Ucluelet, BC
+  address: <p>Brown's Beach, Ucluelet, BC</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
