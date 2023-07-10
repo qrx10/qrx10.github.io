@@ -131,7 +131,7 @@ permalink: /blog/:year/:title/
 # -----------------------------------------------------------------------------
 cv_name: CV
 cv_nav_title: cv
-cv_description: Ruixin Qiu's CV
+cv_description: 
 permalink: /cv/
 
 # Pagination
