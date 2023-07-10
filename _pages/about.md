@@ -6,7 +6,7 @@ subtitle: Undergraduate Research Assistant @ <a href='https://www.ampel.ubc.ca/'
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: qrxwdaixi.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
