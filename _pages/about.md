@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I am currently a 5th year engineering physics stduent at [UBC](https://www.engphys.ubc.ca/) and an undergraduate research assistant in [AMPEL](https://www.ampel.ubc.ca/), supervised by [Dr. John D.W. Madden](https://mm.ece.ubc.ca/john-madden/).
+I am currently a 5th year engineering physics stduent at [UBC](https://www.engphys.ubc.ca/) and an undergraduate research assistant in [AMPEL](https://www.ampel.ubc.ca/), supervised by [Dr. John D.W. Madden](https://mm.ece.ubc.ca/john-madden/). Before joining AMPEL, I also worked as an undergraduate research assistant in [SimPL](https://simpl.mech.ubc.ca/), supervised by [Dr. Lyndia Wu](https://mech.ubc.ca/lyndia-wu/).
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
