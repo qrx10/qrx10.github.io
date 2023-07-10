@@ -9,7 +9,7 @@ profile:
   image: qrxatsea.jpg
   image_circular: false # crops the image to make it circular
   address: >
-  Picture taken at Brown's Beach, Ucluelet, BC<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3760.3432113042036!2d-125.56119137995235!3d48.93742868523826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548973c07be0882d%3A0xe1951ffac23602a3!2sBrown&#39;s%20Beach!5e0!3m2!1szh-CN!2sca!4v1688968157789!5m2!1szh-CN!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  Picture taken at Brown's Beach, Ucluelet, BC in July 2023
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
