@@ -8,8 +8,7 @@ profile:
   align: right
   image: qrxatsea.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-  Picture taken at Brown's Beach, Ucluelet, BC in July 2023
+  address: Picture taken at Brown's Beach, Ucluelet, BC in July 2023
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
