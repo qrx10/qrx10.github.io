@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 5th year engineering physics student @ <a href='https://www.engphys.ubc.ca/'>The University of British Columbia</a><br>Undergraduate Research Assistant @ <a href='https://www.ampel.ubc.ca/'>Advanced Materials and Process Engineering Laboratory</a>
+subtitle: Fifth Year Engineering Physics Student @ <a href='https://www.engphys.ubc.ca/'>The University of British Columbia</a><br>Undergraduate Research Assistant @ <a href='https://www.ampel.ubc.ca/'>Advanced Materials and Process Engineering Laboratory</a>
 
 profile:
   align: right
