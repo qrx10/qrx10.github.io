@@ -26,4 +26,5 @@ During the final competition, we presented our findings to Dr. Shing-Tung Yau, a
 
 This experience not only enhanced our mathematical knowledge and research skills but also provided us with invaluable opportunities to showcase our abilities and interact with renowned mathematicians.
 
-
+<div align=center><img src="/assets/img/Lyapunov_function/photowyau.jpg" width="50%"></div>
+<center><em>A photo of me and Dr. Shing-Tung Yau at the dinner banquet</em></center>
