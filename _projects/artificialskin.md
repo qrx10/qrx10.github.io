@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Artificial Skin for Robot
+description: Soft capacitive sensor for measuring normal and shear force
+img:
 importance: 2
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
