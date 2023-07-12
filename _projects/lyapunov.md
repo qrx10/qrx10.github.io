@@ -21,6 +21,8 @@ We received guidance from Dr. Dun Zhou, who provided us with an idea regarding t
 
 During the final competition, we presented our findings to Dr. Shing-Tung Yau, as well as other professors, and answered their questions. Our hard work and dedication led us to receive an Honorable Mention for the S.-T. Yau Mathematics Award, which also granted us the opportunity to be interviewed by Tsinghua University.
 
+<div align=center><img src="/assets/img/Lyapunov_function/combinedawards.jpg" width="50%"></div>
+<center><em>S.-T. Yau Mathematics Award Honorable Mention</em></center>
 
 This experience not only enhanced our mathematical knowledge and research skills but also provided us with invaluable opportunities to showcase our abilities and interact with renowned mathematicians.
 
