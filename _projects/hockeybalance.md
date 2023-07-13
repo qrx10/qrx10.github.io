@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Quantifying Balance of Hockey Players Using Wearable Sensors
+description: Quantifying postural stability and complexity in ice hockey players using wearable sensors
 img:
 importance: 3
 category: research
