@@ -6,7 +6,7 @@ description: A growing collection of my research and technical projects.
 nav: true
 nav_order: 2
 display_categories: [research, technical]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
