@@ -4,7 +4,7 @@ title: Balance Adaptation Tasks with EEG Measurement
 description: A novel methodology to investigate cerebellar involvement during adaptation to an unexpected delay in standing balance control
 img:
 importance: 4
-category: fun
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
