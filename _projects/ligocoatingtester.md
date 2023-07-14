@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LIGO Coating Tester
-description: High Throughput Testing of Coating Mechanical Loss for Advanced LIGO：Extracting Bulk and Shear Loss Angles
+description: Extracting bulk and shear loss angle for a high throughput testing of coating mechanical loss for Advanced LIGO
 
 img:
 importance: 5
