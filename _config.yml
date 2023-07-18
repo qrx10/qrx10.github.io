@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: 邱瑞昕 Ruixin Qiu # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: 邱瑞昕
 middle_name:
 last_name: Ruixin Qiu
