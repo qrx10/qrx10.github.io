@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantifying Balance of Hockey Players Using Wearable Sensors
+title: Hockey Player Balance Study
 description: Quantifying postural stability and complexity in ice hockey players using wearable sensors
 img:
 importance: 2
